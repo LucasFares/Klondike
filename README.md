@@ -1,0 +1,2 @@
+# Klondike
+Aisleriot's Klondike mode is my favorite version of solitaire but by default the game doesn't end until all cards have been moved to the foundation. This results in having to move all the cards to the foundation after all cards are face up and the stock is empty, in other words, the game has already been won. This file has been tweaked to end the game at this point to avoid having to do this. 
